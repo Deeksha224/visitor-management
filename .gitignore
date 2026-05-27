@@ -1,0 +1,13 @@
+# Node dependencies
+node_modules/
+
+# Local Environment Variables (Your JWT secret and MongoDB URIs)
+.env
+
+# Media Uploads (Keep your local testing pictures off GitHub)
+uploads/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
